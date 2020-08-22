@@ -6,8 +6,8 @@
     "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-app.md"
   },
   "magisk": {
-    "version": "20.0",
-    "versionCode": "20000",
+    "version": "20.1",
+    "versionCode": "20100",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.1/Magisk-v20.1.zip",
     "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-magisk.md",
     "md5": "64017d8c17bc1aedac3c0b41773129cd"
