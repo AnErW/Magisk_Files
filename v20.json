@@ -8,7 +8,7 @@
   "magisk": {
     "version": "20.0",
     "versionCode": "20000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.0/Magisk-v20.0.zip",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.1/Magisk-v20.1.zip",
     "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-magisk.md",
     "md5": "64017d8c17bc1aedac3c0b41773129cd"
   },
